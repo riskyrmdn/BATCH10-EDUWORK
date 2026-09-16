@@ -1,1 +1,246 @@
+<!DOCTYPE html>
+<html lang="id">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Biodata</title>
+</head>
+
+<body>
+
+    <!-- SECTION 1 : MENU -->
+    <table border="1" width="100%">
+
+        <tr>
+
+            <td>
+                <b>Brand</b>
+            </td>
+
+            <td align="right">
+
+                <a href="#home">Homea</a>
+                &nbsp;&nbsp;
+
+                <a href="#biodata">Biodata</a>
+                &nbsp;&nbsp;
+
+                <a href="#portfolio">Portofolio</a>
+
+            </td>
+
+        </tr>
+
+    </table>
+
+
+    <!-- SECTION 2 : HEADER -->
+    <table border="1" width="100%" id="home">
+
+        <tr>
+
+            <td width="50%" valign="top">
+
+                <h2>
+                    Selamat Datang di Website Saya
+                </h2>
+
+                <p>
+                    Ini adalah contoh header dengan dua kolom.
+                    Kolom kiri berisi teks seperti ini.
+                </p>
+
+                <button>
+                    Pelajari Lebih Lanjut
+                </button>
+
+            </td>
+
+
+            <td width="50%" align="center">
+
+                <img
+                    src="https://via.placeholder.com/600x400"
+                    width="100%"
+                    alt="Gambar Profile"
+                >
+
+            </td>
+
+        </tr>
+
+    </table>
+
+
+    <!-- SECTION 3 : BIODATA -->
+    <table border="1" width="100%" id="biodata">
+
+        <tr>
+
+            <td colspan="3" align="center">
+
+                <h2>
+                    About Me
+                </h2>
+
+                <p>
+                    A brief introduction about myself!
+                </p>
+
+            </td>
+
+        </tr>
+
+
+        <tr>
+
+            <td align="center">
+                Full Name
+            </td>
+
+            <td align="center">
+                Education
+            </td>
+
+            <td align="center">
+                Pekerjaan
+            </td>
+
+        </tr>
+
+
+        <tr>
+
+            <td align="center">
+                Muhammad Risky Romadon
+            </td>
+
+            <td align="center">
+                D3 Multimedia
+            </td>
+
+            <td align="center">
+                Video Editor
+            </td>
+
+        </tr>
+
+
+        <tr>
+
+            <td align="center">
+                Contact
+            </td>
+
+            <td align="center">
+                Hobi
+            </td>
+
+            <td align="center">
+                Alamat
+            </td>
+
+        </tr>
+
+
+        <tr>
+
+            <td align="center">
+                08xxxxxxxxxx
+            </td>
+
+            <td align="center">
+                Fotografi
+            </td>
+
+            <td align="center">
+                Jakarta
+            </td>
+
+        </tr>
+
+    </table>
+
+
+    <!-- SECTION 4 : PORTOFOLIO -->
+    <table border="1" width="100%" id="portfolio">
+
+        <tr>
+
+            <td colspan="3" align="center">
+
+                <h2>
+                    Portofolio
+                </h2>
+
+            </td>
+
+        </tr>
+
+
+        <tr>
+
+            <td align="center">
+
+                <img
+                    src="https://via.placeholder.com/350x200"
+                    width="100%"
+                    alt="Project 1"
+                >
+
+                <h4>
+                    Proyek 1
+                </h4>
+
+                <p>
+                    Deskripsi proyek 1.
+                </p>
+
+            </td>
+
+
+            <td align="center">
+
+                <img
+                    src="https://via.placeholder.com/350x200"
+                    width="100%"
+                    alt="Project 2"
+                >
+
+                <h4>
+                    Proyek 2
+                </h4>
+
+                <p>
+                    Deskripsi proyek 2.
+                </p>
+
+            </td>
+
+
+            <td align="center">
+
+                <img
+                    src="https://via.placeholder.com/350x200"
+                    width="100%"
+                    alt="Project 3"
+                >
+
+                <h4>
+                    Proyek 3
+                </h4>
+
+                <p>
+                    Deskripsi proyek 3.
+                </p>
+
+            </td>
+
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
